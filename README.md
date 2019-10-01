@@ -1,2 +1,2 @@
-# SACNI
-Sistema de Administracion y Control De Negocios Inteligente
+# SACN
+Sistema de Administracion y Control De Negocios 
